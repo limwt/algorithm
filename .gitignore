@@ -82,4 +82,4 @@ sample/app/libs/sdk-release.aar
 deploy_sdk.sh
 deploy_sdk_to_app.sh
 
-local.properties
+./local.properties
